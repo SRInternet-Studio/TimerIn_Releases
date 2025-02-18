@@ -1,2 +1,2 @@
-# TimerIn_Releases
+# TimerIn 桌面时钟
 不仅适用于班级大屏，更智能的新一代时间管理软件。
